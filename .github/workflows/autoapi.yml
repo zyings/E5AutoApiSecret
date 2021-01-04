@@ -1,7 +1,6 @@
 #自动调用api保活，加密版
 name: Auto Api Secret
 
-
 on: 
   release:
     types: [published]
